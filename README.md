@@ -1,2 +1,2 @@
-# NotOrtalamasiHesaplamaAraci_Java
-Derslerin notlarından ortalama hesaplayıp 60 olarak belirlenen geçme notuna göre sınıf geçme ve kalma durumlarını hesaplayan program
+# KDVHesaplamaAraci_Java
+Kullanıcıdan paralarının girişini yapıp KDV hesaplayan program
